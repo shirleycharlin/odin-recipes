@@ -1,9 +1,33 @@
 /* styles.css */
 div {
     color: white;
-    background-color: black;
+    /** background-color: black; **/
 }
 
 p{
     color: red;
+}
+
+/*
+*{
+    outline: 2px solid red;
+} */
+
+div{
+    padding: 30px;
+    text-align: left;
+    margin-bottom: 10px;
+    color: #EEEEEE;
+}
+
+.introduction{
+    background-color: #548CA8;
+}
+
+.main-content{
+    background-color: #476072;
+}
+
+.contact-us{
+    background-color: #334257;
 }
